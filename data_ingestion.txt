@@ -1,1 +1,2 @@
 Sample ingestion code, git test. Master branch file. Conflict is solved by the Master.
+BY Master : Bug is foxed.
